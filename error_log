@@ -1,0 +1,2 @@
+[10-Jul-2016 14:28:58] PHP Fatal error:  Call to undefined function  get_header() in /home/neoitaig/public_html/wp-content/themes/neo-itaigara-wp/index.php on line 1
+[07-Aug-2016 05:30:09] PHP Fatal error:  Call to undefined function  get_header() in /home/neoitaig/public_html/wp-content/themes/neo-itaigara-wp/index.php on line 1
